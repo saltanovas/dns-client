@@ -12,3 +12,4 @@ Please use `a` prefix to get an IPv4 address or `aaaa` to get an IPv6:
 ```
 ./program {[domain_name] {a | aaaa}}
 ```
+Read more information about the DNS protocol at https://www.ietf.org/rfc/rfc1035.txt
